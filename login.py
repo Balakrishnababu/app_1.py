@@ -54,7 +54,7 @@ def start():
                 print('Thanks for using robux ATM..BYe!')
 
         elif transaction == 4:
-            print("Thanks for using VASYST ATM, hope you have a great day for you ahead.")
+            print("Thanks for using robux ATM, hope you have a great day for you ahead.")
             print("Exiting prgoram....")
 
 
